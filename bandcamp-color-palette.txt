@@ -1,0 +1,9 @@
+Bandcamp Color Palette
+Balanced plum and lavender tones to complement the generated background
+
+Body Color: #755786
+Text Color: #fff7ff
+Secondary Text Color: #eee5f4
+Link Color: #ffd8f8
+Background Color: #513761
+Navigation Bar Color: #382448
